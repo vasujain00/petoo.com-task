@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="mins.css">
+    <link href="hover.css" rel="stylesheet" media="all">
+
+    <title></title>
+
+    <style></style>
+
+    </head>
+    	
+    	<body style="background-color:#F5F5F5">
+
+<div style="background-color:#000000;height:85px">
+	
+	
+<nav class="navbar navbar-inverse navbar-fixed-top ">
+  
+
+  
+
+  <div class="container-fluid">
+    <div class="navbar-header">
+      
+      <a class="navbar-brand"  style="position:relative;bottom:40px" href="#"><img src="ss.png"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li  style="padding-right:25px;padding-top:20px" ><a href="#3">ORDER ONLINE </a></li>
+        <li  style="padding-right:25px;padding-top:20px" ><a href="#3">8431-009-009 </a></li>
+        <li style="padding-right:25px;padding-top:20px"><a href="#2">MENU</a></li>
+        <li style="padding-right:25px;padding-top:20px"><a href="#1">ABOUT US</a></li> 
+        <li style="padding-right:25px;padding-top:20px"><a href="#4">CONTACT US</a></li>
+        <li style="padding-right:25px;padding-top:20px"><a href="#5">CAREERS</a></li>
+        
+      </ul>
+      </div>
+  </div>
+</nav>
+</div>
+<div class="row" style="background-color:#D3D3D3">
+  <div class="col-sm-12">
+  	<h1 style="position:relative;bottom:10px"><font face="Anivers"><center>ThankYou</center></font></h1>
+  	<h4 style="position:relative;bottom:10px"><center>Your Order was Confirmed and Petoo is now preparing it! Yay!</center></h4>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6" style="position:relative;left:270px"><img src="pii1.jpg"></div>
+  <div class="col-sm-6">
+  <div class="row">
+  <div class="col-sm-6">
+  <img src="piii2.jpg">
+  <div style="background-color:#0099FF;height:50px;width:295px;position:relative;left:17px">
+    <button type="button" class="btn btn-warning btn-lg" style="background-color:#0099FF;position:relative;left:50px">Track your Order</button>
+  
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+
+</div>
+
+<div class="row" style="background-color:#FFCC66">
+  <div class="col-sm-4" style="position:relative;left:370px;top:15px"><img src="qw1.png"></div>
+  <div class="col-sm-4"style="position:relative;left:100px"><h3>Get Extra 30% off </h3>
+  <h3 style="position:relative;bottom:10px">on your next Order</h3></div>
+  <div class="col-sm-4"style="position:relative;right:70px;top:30px"><button type="button" class="btn btn-warning btn-lg" style="background-color:#FF8A24">Get the Code</button></div>
+</div>
+<div class="row">
+  <div class="col-sm-12"><center><img src="pii7.jpg"></center></div>
+ 
+</div>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="row">
+  <div class="col-sm-4">
+    
+
+  </div>
+  <div class="col-sm-8" style="background-color:#3EA8D9;height:400px">
+  <div class="row">
+  <div class="col-sm-4"></div>
+</div>
+ <div class="row">
+  <div class="col-sm-4"><center><img src="er.png" style="position:relative;left:50px;top:20px"></center></div>
+</div>
+ <div class="row">
+  <div class="col-sm-4"><center><h3 style="position:relative;left:120px;">Promotional Content</h3></center></div>
+</div>
+    
+
+
+  </div>
+</div>
+
+
+
+
+  </div>
+  <div class="col-sm-6">
+    <div class="row">
+    <div class="col-sm-8" style="background-color:#C2E0FF;height:400px">
+     <div class="row">
+  <div class="col-sm-4"><img src="rt.png" style="position:relative;left:100px"></div>
+</div>
+ 
+  <h3 style="position:relative;left:20px">Now that you're a petoo fan yourself,
+      you can share this with your friends.</h3>
+
+      <button type="button" class="btn btn-warning btn-lg" style="background-color:#FDC707;position:relative;left:150px;width:100px">Share</button>
+
+
+
+  
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="col-sm-2"></div>
+  <div class="col-sm-8" style="background-color:#252525;height:100px"></div>
+  <div class="col-sm-2"></div>
+</div>
+
+
+
+
+
+
+    		
+    	</body>
